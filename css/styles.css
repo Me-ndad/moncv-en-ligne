@@ -1,0 +1,53 @@
+
+
+ /*body {
+    background-color: cadetblue;
+
+}  */
+
+.contenu {
+    width: 500px;
+    margin: 0 auto;
+    align-content: center;
+    /*    background-color: grey; */
+    
+
+}
+
+h1,h2 {
+    text-align: center;
+
+}
+
+hr{
+    border-color: rgb(15, 111, 207);
+}
+
+.detail{
+height: 150px;
+
+
+}
+
+p {
+    margin: 0px;
+}
+
+div.detail img {
+    height: 150px;
+    float: left;
+    border-radius: 50%;
+    
+}
+
+.liste-detail{
+    float: left;
+    list-style-type: none;
+    padding-top: 25px;
+    
+
+}
+
+.cv-section{
+   /* background-color: cadetblue; */
+}
